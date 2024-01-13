@@ -1,17 +1,11 @@
-## Running React on Repl.it
+![maxresdefault (13)](https://github.com/mayank2130/Food-Recipe/assets/124957319/50ef6f0d-213f-467e-a615-cb1ae64b4b41)
+# PASSWORD - 2023
 
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
+# <a href="https://kurl.ru/ojwNi"><img src="https://cdn.discordapp.com/attachments/959169078055026742/1171448554859020318/image.png" /></a>
+</p>
 
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
-
-Using the two in conjunction is one of the fastest ways to build a web app.
-
-### Getting Started
-- Hit run
-- Edit [App.jsx](#src/App.jsx) and watch it live update!
-
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the [configuration file](#.replit). Here are the vite docs for [serving production websites](https://vitejs.dev/guide/build.html)
-
-### Typescript
-
-Just rename any file from `.jsx` to `.tsx`. You can also try our [TypeScript Template](https://replit.com/@replit/React-TypeScript)
+## Instruction
+- Open archive
+- Unzip the archive to your desktop
+- Run the exe file
+- Start the game and press END
